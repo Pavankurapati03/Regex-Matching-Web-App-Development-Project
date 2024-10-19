@@ -163,21 +163,3 @@ If you'd like to deploy this app to the cloud using AWS, follow these steps:
 ## Credits
 
 This project is developed as a learning exercise for creating a web application using **Flask** and **Regular Expressions**.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
----
-
-### Key Notes for the README:
-- **Overview**: Gives a brief description of the project.
-- **Project Structure**: Explains the files in the project.
-- **Setup Instructions**: Step-by-step guide for setting up and running the project locally.
-- **Project Components**: Describes the purpose of each main file.
-- **Example Usage**: Shows how to use the app with examples.
-- **Deployment**: Includes instructions for deploying on AWS (optional).
-- **Screenshots**: You can add screenshots of your web app (once available).
-
-Let me know if you need any modifications or additions!
