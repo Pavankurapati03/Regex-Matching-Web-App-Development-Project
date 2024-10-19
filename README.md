@@ -123,7 +123,8 @@ The app uses a simple CSS file located in the `static/style.css` to style the la
 ![Regex Matcher Page]![Screenshot 2024-10-19 150139](https://github.com/user-attachments/assets/9936e07f-ce4f-477d-a132-5d5327df4ec4)
 
 ### Email Validation Page
-![Email Validation Page](screenshots/email_validation.png)
+![Screenshot 2024-10-19 150228](https://github.com/user-attachments/assets/98f77d9b-94ed-4ee2-86c5-c3217bd5d9e9)
+
 
 ## Deployment
 
