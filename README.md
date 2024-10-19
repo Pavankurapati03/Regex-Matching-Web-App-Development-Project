@@ -1,8 +1,4 @@
-Here's a comprehensive `README.md` file for your **Regex Matcher Web App** project.
 
-### `README.md` for the Regex Matcher Web App
-
-```markdown
 # Regex Matcher Web App
 
 ## Overview
