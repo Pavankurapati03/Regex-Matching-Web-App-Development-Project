@@ -160,3 +160,4 @@ If you'd like to deploy this app to the cloud using AWS, follow these steps:
 ## Credits
 
 This project is developed as a learning exercise for creating a web application using **Flask** and **Regular Expressions**.
+Check the web app here : http://34.229.167.88:5000/
